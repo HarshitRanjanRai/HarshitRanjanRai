@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently working on **Spring Boot**
 
 - 💬 Ask me about **Java, Data Structure**
 
 - 📫 How to reach me **ranjanraiharshit@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Fast Leraner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
