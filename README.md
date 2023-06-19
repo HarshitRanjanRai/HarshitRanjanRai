@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ranjanraiharshit@gmail.com**
 
-- ⚡ Fun fact **I think I am Fast Learner**
+- ⚡ Fun fact **I think I am lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
